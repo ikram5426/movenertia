@@ -37,7 +37,7 @@ const Hero = () => {
           <div className='flex flex-col items-center justify-center py-4'><h3 className='text-[#fff] py-[3vh] font-sofia text-[24px] font-semibold'>GET A QUOTE</h3>
           
             <p className='text-center font-sofia text-[14px] text-[#bbbbbb] px-[8vw]'>
-              Planning a move? Allow our Movenertia movers to handle all your needs. Simply complete our form, and we'll reach out to you with an estimate within 24 hours.</p>
+              Planning a move? Allow our Movenertia movers to handle all your needs. Simply complete our form, and we will reach out to you with an estimate within 24 hours.</p>
           </div>
       </div></div>
       
